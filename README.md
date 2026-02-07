@@ -20,8 +20,11 @@ Description: Contains bike trip records including start time, stations, trip dur
 🧹 Data Cleaning
 
 ✅ To ensure data quality and reliable analysis, the following cleaning steps were applied:
+
 ✅ Removed trips where the start station and end station were the same
+
 ✅ Checked and validated trip duration values
+
 ✅ Ensured only meaningful and complete trip records were retained
 
 📉 Result:
@@ -65,9 +68,13 @@ Used SQL window functions to identify the longest and shortest trips in the data
 📈 Skills Demonstrated
 
 ✅ Data cleaning using SQL
+
 ✅ Aggregations with GROUP BY and AVG()
+
 ✅ Date and time manipulation
+
 ✅ Window functions (ROW_NUMBER)
+
 ✅ Analytical thinking and documentation
 
 ✅ Conclusion
